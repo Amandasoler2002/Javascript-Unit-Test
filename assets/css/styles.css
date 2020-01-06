@@ -166,7 +166,7 @@ Single styles
 
 .img-responsive { max-width: 100%; }
 
-.btn
+.button
 {
 	color: #fff !important;
 	background-color: royalblue;
@@ -256,13 +256,13 @@ Wide styles
 	}
 
 	.footer { padding: 2em 3em; }
-	
+
 	.nav li
 	{
 		display: inline;
 		margin: 0 1em 0 0;
 	}
-	
+
 	.nav a
 	{
 		display: inline;
